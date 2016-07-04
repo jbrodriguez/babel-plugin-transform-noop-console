@@ -1,0 +1,17 @@
+{
+  "name": "babel-plugin-transform-noop-console",
+  "version": "6.8.0",
+  "description": "Remove console.* calls",
+  "repository": "https://github.com/jbrodriguez/babel-plugin-transform-noop-console",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "babel-runtime": "^6.0.0"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.8.0"
+  }
+}
